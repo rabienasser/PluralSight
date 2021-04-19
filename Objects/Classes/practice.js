@@ -58,3 +58,5 @@ class EnglishClubs extends Club {
 const arsenal = new EnglishClubs('Arsenal', ['Red', 'White'], 'London', 'England', 'Aubameyang', 'Arteta', 'Premier League')
 arsenal.ground = 'Emirates'
 console.log(arsenal)
+
+
